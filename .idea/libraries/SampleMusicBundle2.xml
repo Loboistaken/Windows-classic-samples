@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SampleMusicBundle2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Samples/Win7Samples/dataaccess/OPC/musicbundlesignature/SampleMusicBundle.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
